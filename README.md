@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on ML and AI
-- 📫 How to reach me .
+- 📫 How to reach me . email
 - 😄 Pronouns: he/him
 
 <!---
